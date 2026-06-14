@@ -1,0 +1,459 @@
+Token	POS-Tag	OOV	Id	Index	Documento
+A	DET	0	1	0	A Biblioteconomia utiliza sistemas de classificação como CDD e CDU para organizar o conhecimento humano .
+Biblioteconomia	NOUN	1	1	1	A Biblioteconomia utiliza sistemas de classificação como CDD e CDU para organizar o conhecimento humano .
+utiliza	VERB	0	1	2	A Biblioteconomia utiliza sistemas de classificação como CDD e CDU para organizar o conhecimento humano .
+sistemas	NOUN	0	1	3	A Biblioteconomia utiliza sistemas de classificação como CDD e CDU para organizar o conhecimento humano .
+de	ADP	0	1	4	A Biblioteconomia utiliza sistemas de classificação como CDD e CDU para organizar o conhecimento humano .
+classificação	NOUN	0	1	5	A Biblioteconomia utiliza sistemas de classificação como CDD e CDU para organizar o conhecimento humano .
+como	ADP	0	1	6	A Biblioteconomia utiliza sistemas de classificação como CDD e CDU para organizar o conhecimento humano .
+CDD	PROPN	1	1	7	A Biblioteconomia utiliza sistemas de classificação como CDD e CDU para organizar o conhecimento humano .
+e	CCONJ	0	1	8	A Biblioteconomia utiliza sistemas de classificação como CDD e CDU para organizar o conhecimento humano .
+CDU	PROPN	1	1	9	A Biblioteconomia utiliza sistemas de classificação como CDD e CDU para organizar o conhecimento humano .
+para	SCONJ	0	1	10	A Biblioteconomia utiliza sistemas de classificação como CDD e CDU para organizar o conhecimento humano .
+organizar	VERB	0	1	11	A Biblioteconomia utiliza sistemas de classificação como CDD e CDU para organizar o conhecimento humano .
+o	DET	0	1	12	A Biblioteconomia utiliza sistemas de classificação como CDD e CDU para organizar o conhecimento humano .
+conhecimento	NOUN	0	1	13	A Biblioteconomia utiliza sistemas de classificação como CDD e CDU para organizar o conhecimento humano .
+humano	ADJ	0	1	14	A Biblioteconomia utiliza sistemas de classificação como CDD e CDU para organizar o conhecimento humano .
+.	PUNCT	0	1	15	A Biblioteconomia utiliza sistemas de classificação como CDD e CDU para organizar o conhecimento humano .
+O	DET	0	2	0	O bibliotecário atua como mediador essencial entre a informação registrada e o usuário final .
+bibliotecário	NOUN	1	2	1	O bibliotecário atua como mediador essencial entre a informação registrada e o usuário final .
+atua	VERB	0	2	2	O bibliotecário atua como mediador essencial entre a informação registrada e o usuário final .
+como	ADP	0	2	3	O bibliotecário atua como mediador essencial entre a informação registrada e o usuário final .
+mediador	NOUN	1	2	4	O bibliotecário atua como mediador essencial entre a informação registrada e o usuário final .
+essencial	ADJ	0	2	5	O bibliotecário atua como mediador essencial entre a informação registrada e o usuário final .
+entre	ADP	0	2	6	O bibliotecário atua como mediador essencial entre a informação registrada e o usuário final .
+a	DET	0	2	7	O bibliotecário atua como mediador essencial entre a informação registrada e o usuário final .
+informação	NOUN	0	2	8	O bibliotecário atua como mediador essencial entre a informação registrada e o usuário final .
+registrada	VERB	0	2	9	O bibliotecário atua como mediador essencial entre a informação registrada e o usuário final .
+e	CCONJ	0	2	10	O bibliotecário atua como mediador essencial entre a informação registrada e o usuário final .
+o	DET	0	2	11	O bibliotecário atua como mediador essencial entre a informação registrada e o usuário final .
+usuário	NOUN	0	2	12	O bibliotecário atua como mediador essencial entre a informação registrada e o usuário final .
+final	ADJ	0	2	13	O bibliotecário atua como mediador essencial entre a informação registrada e o usuário final .
+.	PUNCT	0	2	14	O bibliotecário atua como mediador essencial entre a informação registrada e o usuário final .
+A	DET	0	3	0	A preservação digital é um desafio contemporâneo para as bibliotecas universitárias e centros de documentação .
+preservação	NOUN	0	3	1	A preservação digital é um desafio contemporâneo para as bibliotecas universitárias e centros de documentação .
+digital	ADJ	0	3	2	A preservação digital é um desafio contemporâneo para as bibliotecas universitárias e centros de documentação .
+é	AUX	0	3	3	A preservação digital é um desafio contemporâneo para as bibliotecas universitárias e centros de documentação .
+um	DET	0	3	4	A preservação digital é um desafio contemporâneo para as bibliotecas universitárias e centros de documentação .
+desafio	NOUN	0	3	5	A preservação digital é um desafio contemporâneo para as bibliotecas universitárias e centros de documentação .
+contemporâneo	ADJ	0	3	6	A preservação digital é um desafio contemporâneo para as bibliotecas universitárias e centros de documentação .
+para	ADP	0	3	7	A preservação digital é um desafio contemporâneo para as bibliotecas universitárias e centros de documentação .
+as	DET	0	3	8	A preservação digital é um desafio contemporâneo para as bibliotecas universitárias e centros de documentação .
+bibliotecas	NOUN	0	3	9	A preservação digital é um desafio contemporâneo para as bibliotecas universitárias e centros de documentação .
+universitárias	ADJ	1	3	10	A preservação digital é um desafio contemporâneo para as bibliotecas universitárias e centros de documentação .
+e	CCONJ	0	3	11	A preservação digital é um desafio contemporâneo para as bibliotecas universitárias e centros de documentação .
+centros	NOUN	0	3	12	A preservação digital é um desafio contemporâneo para as bibliotecas universitárias e centros de documentação .
+de	ADP	0	3	13	A preservação digital é um desafio contemporâneo para as bibliotecas universitárias e centros de documentação .
+documentação	NOUN	0	3	14	A preservação digital é um desafio contemporâneo para as bibliotecas universitárias e centros de documentação .
+.	PUNCT	0	3	15	A preservação digital é um desafio contemporâneo para as bibliotecas universitárias e centros de documentação .
+O	DET	0	4	0	O Repositório Institucional da USP armazena e dissemina a produção científica de seus pesquisadores .
+Repositório	PROPN	1	4	1	O Repositório Institucional da USP armazena e dissemina a produção científica de seus pesquisadores .
+Institucional	PROPN	1	4	2	O Repositório Institucional da USP armazena e dissemina a produção científica de seus pesquisadores .
+da	ADP	0	4	3	O Repositório Institucional da USP armazena e dissemina a produção científica de seus pesquisadores .
+USP	PROPN	0	4	4	O Repositório Institucional da USP armazena e dissemina a produção científica de seus pesquisadores .
+armazena	VERB	1	4	5	O Repositório Institucional da USP armazena e dissemina a produção científica de seus pesquisadores .
+e	CCONJ	0	4	6	O Repositório Institucional da USP armazena e dissemina a produção científica de seus pesquisadores .
+dissemina	VERB	1	4	7	O Repositório Institucional da USP armazena e dissemina a produção científica de seus pesquisadores .
+a	DET	0	4	8	O Repositório Institucional da USP armazena e dissemina a produção científica de seus pesquisadores .
+produção	NOUN	0	4	9	O Repositório Institucional da USP armazena e dissemina a produção científica de seus pesquisadores .
+científica	ADJ	0	4	10	O Repositório Institucional da USP armazena e dissemina a produção científica de seus pesquisadores .
+de	ADP	0	4	11	O Repositório Institucional da USP armazena e dissemina a produção científica de seus pesquisadores .
+seus	DET	0	4	12	O Repositório Institucional da USP armazena e dissemina a produção científica de seus pesquisadores .
+pesquisadores	NOUN	0	4	13	O Repositório Institucional da USP armazena e dissemina a produção científica de seus pesquisadores .
+.	PUNCT	0	4	14	O Repositório Institucional da USP armazena e dissemina a produção científica de seus pesquisadores .
+A	DET	0	5	0	A gestão de coleções exige critérios técnicos rigorosos para o descarte e a aquisição de novos títulos .
+gestão	NOUN	0	5	1	A gestão de coleções exige critérios técnicos rigorosos para o descarte e a aquisição de novos títulos .
+de	ADP	0	5	2	A gestão de coleções exige critérios técnicos rigorosos para o descarte e a aquisição de novos títulos .
+coleções	NOUN	0	5	3	A gestão de coleções exige critérios técnicos rigorosos para o descarte e a aquisição de novos títulos .
+exige	VERB	0	5	4	A gestão de coleções exige critérios técnicos rigorosos para o descarte e a aquisição de novos títulos .
+critérios	NOUN	0	5	5	A gestão de coleções exige critérios técnicos rigorosos para o descarte e a aquisição de novos títulos .
+técnicos	ADJ	0	5	6	A gestão de coleções exige critérios técnicos rigorosos para o descarte e a aquisição de novos títulos .
+rigorosos	ADJ	1	5	7	A gestão de coleções exige critérios técnicos rigorosos para o descarte e a aquisição de novos títulos .
+para	ADP	0	5	8	A gestão de coleções exige critérios técnicos rigorosos para o descarte e a aquisição de novos títulos .
+o	DET	0	5	9	A gestão de coleções exige critérios técnicos rigorosos para o descarte e a aquisição de novos títulos .
+descarte	NOUN	1	5	10	A gestão de coleções exige critérios técnicos rigorosos para o descarte e a aquisição de novos títulos .
+e	CCONJ	0	5	11	A gestão de coleções exige critérios técnicos rigorosos para o descarte e a aquisição de novos títulos .
+a	DET	0	5	12	A gestão de coleções exige critérios técnicos rigorosos para o descarte e a aquisição de novos títulos .
+aquisição	NOUN	0	5	13	A gestão de coleções exige critérios técnicos rigorosos para o descarte e a aquisição de novos títulos .
+de	ADP	0	5	14	A gestão de coleções exige critérios técnicos rigorosos para o descarte e a aquisição de novos títulos .
+novos	ADJ	0	5	15	A gestão de coleções exige critérios técnicos rigorosos para o descarte e a aquisição de novos títulos .
+títulos	NOUN	0	5	16	A gestão de coleções exige critérios técnicos rigorosos para o descarte e a aquisição de novos títulos .
+.	PUNCT	0	5	17	A gestão de coleções exige critérios técnicos rigorosos para o descarte e a aquisição de novos títulos .
+A	DET	0	6	0	A catalogação descritiva utiliza padrões internacionais como o RDA e o formato MARC21 .
+catalogação	NOUN	1	6	1	A catalogação descritiva utiliza padrões internacionais como o RDA e o formato MARC21 .
+descritiva	ADJ	1	6	2	A catalogação descritiva utiliza padrões internacionais como o RDA e o formato MARC21 .
+utiliza	VERB	0	6	3	A catalogação descritiva utiliza padrões internacionais como o RDA e o formato MARC21 .
+padrões	NOUN	0	6	4	A catalogação descritiva utiliza padrões internacionais como o RDA e o formato MARC21 .
+internacionais	ADJ	0	6	5	A catalogação descritiva utiliza padrões internacionais como o RDA e o formato MARC21 .
+como	ADP	0	6	6	A catalogação descritiva utiliza padrões internacionais como o RDA e o formato MARC21 .
+o	DET	0	6	7	A catalogação descritiva utiliza padrões internacionais como o RDA e o formato MARC21 .
+RDA	PROPN	1	6	8	A catalogação descritiva utiliza padrões internacionais como o RDA e o formato MARC21 .
+e	CCONJ	0	6	9	A catalogação descritiva utiliza padrões internacionais como o RDA e o formato MARC21 .
+o	DET	0	6	10	A catalogação descritiva utiliza padrões internacionais como o RDA e o formato MARC21 .
+formato	NOUN	0	6	11	A catalogação descritiva utiliza padrões internacionais como o RDA e o formato MARC21 .
+MARC21	ADJ	1	6	12	A catalogação descritiva utiliza padrões internacionais como o RDA e o formato MARC21 .
+.	PUNCT	0	6	13	A catalogação descritiva utiliza padrões internacionais como o RDA e o formato MARC21 .
+Bibliotecas	NOUN	1	7	0	Bibliotecas públicas desempenham um papel fundamental na promoção do letramento informacional na sociedade .
+públicas	ADJ	0	7	1	Bibliotecas públicas desempenham um papel fundamental na promoção do letramento informacional na sociedade .
+desempenham	VERB	1	7	2	Bibliotecas públicas desempenham um papel fundamental na promoção do letramento informacional na sociedade .
+um	DET	0	7	3	Bibliotecas públicas desempenham um papel fundamental na promoção do letramento informacional na sociedade .
+papel	NOUN	0	7	4	Bibliotecas públicas desempenham um papel fundamental na promoção do letramento informacional na sociedade .
+fundamental	ADJ	0	7	5	Bibliotecas públicas desempenham um papel fundamental na promoção do letramento informacional na sociedade .
+na	ADP	0	7	6	Bibliotecas públicas desempenham um papel fundamental na promoção do letramento informacional na sociedade .
+promoção	NOUN	0	7	7	Bibliotecas públicas desempenham um papel fundamental na promoção do letramento informacional na sociedade .
+do	ADP	0	7	8	Bibliotecas públicas desempenham um papel fundamental na promoção do letramento informacional na sociedade .
+letramento	NOUN	1	7	9	Bibliotecas públicas desempenham um papel fundamental na promoção do letramento informacional na sociedade .
+informacional	ADJ	1	7	10	Bibliotecas públicas desempenham um papel fundamental na promoção do letramento informacional na sociedade .
+na	ADP	0	7	11	Bibliotecas públicas desempenham um papel fundamental na promoção do letramento informacional na sociedade .
+sociedade	NOUN	0	7	12	Bibliotecas públicas desempenham um papel fundamental na promoção do letramento informacional na sociedade .
+.	PUNCT	0	7	13	Bibliotecas públicas desempenham um papel fundamental na promoção do letramento informacional na sociedade .
+A	DET	0	8	0	A indexação de documentos facilita a recuperação da informação em bases de dados especializadas .
+indexação	NOUN	1	8	1	A indexação de documentos facilita a recuperação da informação em bases de dados especializadas .
+de	ADP	0	8	2	A indexação de documentos facilita a recuperação da informação em bases de dados especializadas .
+documentos	NOUN	0	8	3	A indexação de documentos facilita a recuperação da informação em bases de dados especializadas .
+facilita	VERB	1	8	4	A indexação de documentos facilita a recuperação da informação em bases de dados especializadas .
+a	DET	0	8	5	A indexação de documentos facilita a recuperação da informação em bases de dados especializadas .
+recuperação	NOUN	0	8	6	A indexação de documentos facilita a recuperação da informação em bases de dados especializadas .
+da	ADP	0	8	7	A indexação de documentos facilita a recuperação da informação em bases de dados especializadas .
+informação	NOUN	0	8	8	A indexação de documentos facilita a recuperação da informação em bases de dados especializadas .
+em	ADP	0	8	9	A indexação de documentos facilita a recuperação da informação em bases de dados especializadas .
+bases	NOUN	0	8	10	A indexação de documentos facilita a recuperação da informação em bases de dados especializadas .
+de	ADP	0	8	11	A indexação de documentos facilita a recuperação da informação em bases de dados especializadas .
+dados	NOUN	0	8	12	A indexação de documentos facilita a recuperação da informação em bases de dados especializadas .
+especializadas	VERB	0	8	13	A indexação de documentos facilita a recuperação da informação em bases de dados especializadas .
+.	PUNCT	0	8	14	A indexação de documentos facilita a recuperação da informação em bases de dados especializadas .
+O	DET	0	9	0	O Manifesto da IFLA para Bibliotecas Públicas destaca a importância do acesso livre ao conhecimento .
+Manifesto	PROPN	1	9	1	O Manifesto da IFLA para Bibliotecas Públicas destaca a importância do acesso livre ao conhecimento .
+da	ADP	0	9	2	O Manifesto da IFLA para Bibliotecas Públicas destaca a importância do acesso livre ao conhecimento .
+IFLA	PROPN	1	9	3	O Manifesto da IFLA para Bibliotecas Públicas destaca a importância do acesso livre ao conhecimento .
+para	ADP	0	9	4	O Manifesto da IFLA para Bibliotecas Públicas destaca a importância do acesso livre ao conhecimento .
+Bibliotecas	PROPN	1	9	5	O Manifesto da IFLA para Bibliotecas Públicas destaca a importância do acesso livre ao conhecimento .
+Públicas	PROPN	0	9	6	O Manifesto da IFLA para Bibliotecas Públicas destaca a importância do acesso livre ao conhecimento .
+destaca	VERB	0	9	7	O Manifesto da IFLA para Bibliotecas Públicas destaca a importância do acesso livre ao conhecimento .
+a	DET	0	9	8	O Manifesto da IFLA para Bibliotecas Públicas destaca a importância do acesso livre ao conhecimento .
+importância	NOUN	0	9	9	O Manifesto da IFLA para Bibliotecas Públicas destaca a importância do acesso livre ao conhecimento .
+do	ADP	0	9	10	O Manifesto da IFLA para Bibliotecas Públicas destaca a importância do acesso livre ao conhecimento .
+acesso	NOUN	0	9	11	O Manifesto da IFLA para Bibliotecas Públicas destaca a importância do acesso livre ao conhecimento .
+livre	ADJ	0	9	12	O Manifesto da IFLA para Bibliotecas Públicas destaca a importância do acesso livre ao conhecimento .
+ao	ADP	0	9	13	O Manifesto da IFLA para Bibliotecas Públicas destaca a importância do acesso livre ao conhecimento .
+conhecimento	NOUN	0	9	14	O Manifesto da IFLA para Bibliotecas Públicas destaca a importância do acesso livre ao conhecimento .
+.	PUNCT	0	9	15	O Manifesto da IFLA para Bibliotecas Públicas destaca a importância do acesso livre ao conhecimento .
+Serviços	NOUN	0	10	0	Serviços de referência auxiliam os usuários na busca por fontes de informação confiáveis e acadêmicas .
+de	ADP	0	10	1	Serviços de referência auxiliam os usuários na busca por fontes de informação confiáveis e acadêmicas .
+referência	NOUN	0	10	2	Serviços de referência auxiliam os usuários na busca por fontes de informação confiáveis e acadêmicas .
+auxiliam	VERB	1	10	3	Serviços de referência auxiliam os usuários na busca por fontes de informação confiáveis e acadêmicas .
+os	DET	0	10	4	Serviços de referência auxiliam os usuários na busca por fontes de informação confiáveis e acadêmicas .
+usuários	NOUN	0	10	5	Serviços de referência auxiliam os usuários na busca por fontes de informação confiáveis e acadêmicas .
+na	ADP	0	10	6	Serviços de referência auxiliam os usuários na busca por fontes de informação confiáveis e acadêmicas .
+busca	NOUN	0	10	7	Serviços de referência auxiliam os usuários na busca por fontes de informação confiáveis e acadêmicas .
+por	ADP	0	10	8	Serviços de referência auxiliam os usuários na busca por fontes de informação confiáveis e acadêmicas .
+fontes	NOUN	0	10	9	Serviços de referência auxiliam os usuários na busca por fontes de informação confiáveis e acadêmicas .
+de	ADP	0	10	10	Serviços de referência auxiliam os usuários na busca por fontes de informação confiáveis e acadêmicas .
+informação	NOUN	0	10	11	Serviços de referência auxiliam os usuários na busca por fontes de informação confiáveis e acadêmicas .
+confiáveis	ADJ	1	10	12	Serviços de referência auxiliam os usuários na busca por fontes de informação confiáveis e acadêmicas .
+e	CCONJ	0	10	13	Serviços de referência auxiliam os usuários na busca por fontes de informação confiáveis e acadêmicas .
+acadêmicas	ADJ	1	10	14	Serviços de referência auxiliam os usuários na busca por fontes de informação confiáveis e acadêmicas .
+.	PUNCT	0	10	15	Serviços de referência auxiliam os usuários na busca por fontes de informação confiáveis e acadêmicas .
+A	DET	0	11	0	A automação de bibliotecas utiliza softwares como o Koha e o Pergamum para gerenciar acervos .
+automação	NOUN	1	11	1	A automação de bibliotecas utiliza softwares como o Koha e o Pergamum para gerenciar acervos .
+de	ADP	0	11	2	A automação de bibliotecas utiliza softwares como o Koha e o Pergamum para gerenciar acervos .
+bibliotecas	NOUN	0	11	3	A automação de bibliotecas utiliza softwares como o Koha e o Pergamum para gerenciar acervos .
+utiliza	VERB	0	11	4	A automação de bibliotecas utiliza softwares como o Koha e o Pergamum para gerenciar acervos .
+softwares	NOUN	0	11	5	A automação de bibliotecas utiliza softwares como o Koha e o Pergamum para gerenciar acervos .
+como	ADP	0	11	6	A automação de bibliotecas utiliza softwares como o Koha e o Pergamum para gerenciar acervos .
+o	DET	0	11	7	A automação de bibliotecas utiliza softwares como o Koha e o Pergamum para gerenciar acervos .
+Koha	PROPN	1	11	8	A automação de bibliotecas utiliza softwares como o Koha e o Pergamum para gerenciar acervos .
+e	CCONJ	0	11	9	A automação de bibliotecas utiliza softwares como o Koha e o Pergamum para gerenciar acervos .
+o	DET	0	11	10	A automação de bibliotecas utiliza softwares como o Koha e o Pergamum para gerenciar acervos .
+Pergamum	PROPN	1	11	11	A automação de bibliotecas utiliza softwares como o Koha e o Pergamum para gerenciar acervos .
+para	SCONJ	0	11	12	A automação de bibliotecas utiliza softwares como o Koha e o Pergamum para gerenciar acervos .
+gerenciar	VERB	1	11	13	A automação de bibliotecas utiliza softwares como o Koha e o Pergamum para gerenciar acervos .
+acervos	NOUN	1	11	14	A automação de bibliotecas utiliza softwares como o Koha e o Pergamum para gerenciar acervos .
+.	PUNCT	0	11	15	A automação de bibliotecas utiliza softwares como o Koha e o Pergamum para gerenciar acervos .
+Metadados	NOUN	1	12	0	Metadados são fundamentais para a descrição e organização de recursos em ambientes digitais .
+são	AUX	0	12	1	Metadados são fundamentais para a descrição e organização de recursos em ambientes digitais .
+fundamentais	ADJ	0	12	2	Metadados são fundamentais para a descrição e organização de recursos em ambientes digitais .
+para	ADP	0	12	3	Metadados são fundamentais para a descrição e organização de recursos em ambientes digitais .
+a	DET	0	12	4	Metadados são fundamentais para a descrição e organização de recursos em ambientes digitais .
+descrição	NOUN	0	12	5	Metadados são fundamentais para a descrição e organização de recursos em ambientes digitais .
+e	CCONJ	0	12	6	Metadados são fundamentais para a descrição e organização de recursos em ambientes digitais .
+organização	NOUN	0	12	7	Metadados são fundamentais para a descrição e organização de recursos em ambientes digitais .
+de	ADP	0	12	8	Metadados são fundamentais para a descrição e organização de recursos em ambientes digitais .
+recursos	NOUN	0	12	9	Metadados são fundamentais para a descrição e organização de recursos em ambientes digitais .
+em	ADP	0	12	10	Metadados são fundamentais para a descrição e organização de recursos em ambientes digitais .
+ambientes	NOUN	0	12	11	Metadados são fundamentais para a descrição e organização de recursos em ambientes digitais .
+digitais	ADJ	0	12	12	Metadados são fundamentais para a descrição e organização de recursos em ambientes digitais .
+.	PUNCT	0	12	13	Metadados são fundamentais para a descrição e organização de recursos em ambientes digitais .
+A	DET	0	13	0	A biblioteca escolar é um espaço de apoio pedagógico que estimula o hábito da leitura .
+biblioteca	NOUN	0	13	1	A biblioteca escolar é um espaço de apoio pedagógico que estimula o hábito da leitura .
+escolar	ADJ	0	13	2	A biblioteca escolar é um espaço de apoio pedagógico que estimula o hábito da leitura .
+é	AUX	0	13	3	A biblioteca escolar é um espaço de apoio pedagógico que estimula o hábito da leitura .
+um	DET	0	13	4	A biblioteca escolar é um espaço de apoio pedagógico que estimula o hábito da leitura .
+espaço	NOUN	0	13	5	A biblioteca escolar é um espaço de apoio pedagógico que estimula o hábito da leitura .
+de	ADP	0	13	6	A biblioteca escolar é um espaço de apoio pedagógico que estimula o hábito da leitura .
+apoio	NOUN	0	13	7	A biblioteca escolar é um espaço de apoio pedagógico que estimula o hábito da leitura .
+pedagógico	ADJ	1	13	8	A biblioteca escolar é um espaço de apoio pedagógico que estimula o hábito da leitura .
+que	PRON	0	13	9	A biblioteca escolar é um espaço de apoio pedagógico que estimula o hábito da leitura .
+estimula	VERB	1	13	10	A biblioteca escolar é um espaço de apoio pedagógico que estimula o hábito da leitura .
+o	DET	0	13	11	A biblioteca escolar é um espaço de apoio pedagógico que estimula o hábito da leitura .
+hábito	NOUN	0	13	12	A biblioteca escolar é um espaço de apoio pedagógico que estimula o hábito da leitura .
+da	ADP	0	13	13	A biblioteca escolar é um espaço de apoio pedagógico que estimula o hábito da leitura .
+leitura	NOUN	0	13	14	A biblioteca escolar é um espaço de apoio pedagógico que estimula o hábito da leitura .
+.	PUNCT	0	13	15	A biblioteca escolar é um espaço de apoio pedagógico que estimula o hábito da leitura .
+O	DET	0	14	0	O controle de autoridades garante a consistência dos nomes de autores nos catálogos bibliográficos .
+controle	NOUN	0	14	1	O controle de autoridades garante a consistência dos nomes de autores nos catálogos bibliográficos .
+de	ADP	0	14	2	O controle de autoridades garante a consistência dos nomes de autores nos catálogos bibliográficos .
+autoridades	NOUN	0	14	3	O controle de autoridades garante a consistência dos nomes de autores nos catálogos bibliográficos .
+garante	VERB	0	14	4	O controle de autoridades garante a consistência dos nomes de autores nos catálogos bibliográficos .
+a	DET	0	14	5	O controle de autoridades garante a consistência dos nomes de autores nos catálogos bibliográficos .
+consistência	NOUN	1	14	6	O controle de autoridades garante a consistência dos nomes de autores nos catálogos bibliográficos .
+dos	ADP	0	14	7	O controle de autoridades garante a consistência dos nomes de autores nos catálogos bibliográficos .
+nomes	NOUN	0	14	8	O controle de autoridades garante a consistência dos nomes de autores nos catálogos bibliográficos .
+de	ADP	0	14	9	O controle de autoridades garante a consistência dos nomes de autores nos catálogos bibliográficos .
+autores	NOUN	0	14	10	O controle de autoridades garante a consistência dos nomes de autores nos catálogos bibliográficos .
+nos	ADP	0	14	11	O controle de autoridades garante a consistência dos nomes de autores nos catálogos bibliográficos .
+catálogos	NOUN	1	14	12	O controle de autoridades garante a consistência dos nomes de autores nos catálogos bibliográficos .
+bibliográficos	ADJ	1	14	13	O controle de autoridades garante a consistência dos nomes de autores nos catálogos bibliográficos .
+.	PUNCT	0	14	14	O controle de autoridades garante a consistência dos nomes de autores nos catálogos bibliográficos .
+A	DET	0	15	0	A ciência da informação estuda as propriedades e o fluxo da informação na sociedade moderna .
+ciência	NOUN	0	15	1	A ciência da informação estuda as propriedades e o fluxo da informação na sociedade moderna .
+da	ADP	0	15	2	A ciência da informação estuda as propriedades e o fluxo da informação na sociedade moderna .
+informação	NOUN	0	15	3	A ciência da informação estuda as propriedades e o fluxo da informação na sociedade moderna .
+estuda	VERB	0	15	4	A ciência da informação estuda as propriedades e o fluxo da informação na sociedade moderna .
+as	DET	0	15	5	A ciência da informação estuda as propriedades e o fluxo da informação na sociedade moderna .
+propriedades	NOUN	0	15	6	A ciência da informação estuda as propriedades e o fluxo da informação na sociedade moderna .
+e	CCONJ	0	15	7	A ciência da informação estuda as propriedades e o fluxo da informação na sociedade moderna .
+o	DET	0	15	8	A ciência da informação estuda as propriedades e o fluxo da informação na sociedade moderna .
+fluxo	NOUN	0	15	9	A ciência da informação estuda as propriedades e o fluxo da informação na sociedade moderna .
+da	ADP	0	15	10	A ciência da informação estuda as propriedades e o fluxo da informação na sociedade moderna .
+informação	NOUN	0	15	11	A ciência da informação estuda as propriedades e o fluxo da informação na sociedade moderna .
+na	ADP	0	15	12	A ciência da informação estuda as propriedades e o fluxo da informação na sociedade moderna .
+sociedade	NOUN	0	15	13	A ciência da informação estuda as propriedades e o fluxo da informação na sociedade moderna .
+moderna	ADJ	0	15	14	A ciência da informação estuda as propriedades e o fluxo da informação na sociedade moderna .
+.	PUNCT	0	15	15	A ciência da informação estuda as propriedades e o fluxo da informação na sociedade moderna .
+Bibliotecas	NOUN	1	16	0	Bibliotecas digitais permitem o acesso remoto a livros e documentos raros em alta resolução .
+digitais	ADJ	0	16	1	Bibliotecas digitais permitem o acesso remoto a livros e documentos raros em alta resolução .
+permitem	VERB	0	16	2	Bibliotecas digitais permitem o acesso remoto a livros e documentos raros em alta resolução .
+o	DET	0	16	3	Bibliotecas digitais permitem o acesso remoto a livros e documentos raros em alta resolução .
+acesso	NOUN	0	16	4	Bibliotecas digitais permitem o acesso remoto a livros e documentos raros em alta resolução .
+remoto	ADJ	1	16	5	Bibliotecas digitais permitem o acesso remoto a livros e documentos raros em alta resolução .
+a	ADP	0	16	6	Bibliotecas digitais permitem o acesso remoto a livros e documentos raros em alta resolução .
+livros	NOUN	0	16	7	Bibliotecas digitais permitem o acesso remoto a livros e documentos raros em alta resolução .
+e	CCONJ	0	16	8	Bibliotecas digitais permitem o acesso remoto a livros e documentos raros em alta resolução .
+documentos	NOUN	0	16	9	Bibliotecas digitais permitem o acesso remoto a livros e documentos raros em alta resolução .
+raros	ADJ	0	16	10	Bibliotecas digitais permitem o acesso remoto a livros e documentos raros em alta resolução .
+em	ADP	0	16	11	Bibliotecas digitais permitem o acesso remoto a livros e documentos raros em alta resolução .
+alta	ADJ	0	16	12	Bibliotecas digitais permitem o acesso remoto a livros e documentos raros em alta resolução .
+resolução	NOUN	0	16	13	Bibliotecas digitais permitem o acesso remoto a livros e documentos raros em alta resolução .
+.	PUNCT	0	16	14	Bibliotecas digitais permitem o acesso remoto a livros e documentos raros em alta resolução .
+A	DET	0	17	0	A conservação preventiva de obras raras envolve o controle de temperatura e umidade nos acervos .
+conservação	NOUN	0	17	1	A conservação preventiva de obras raras envolve o controle de temperatura e umidade nos acervos .
+preventiva	ADJ	1	17	2	A conservação preventiva de obras raras envolve o controle de temperatura e umidade nos acervos .
+de	ADP	0	17	3	A conservação preventiva de obras raras envolve o controle de temperatura e umidade nos acervos .
+obras	NOUN	0	17	4	A conservação preventiva de obras raras envolve o controle de temperatura e umidade nos acervos .
+raras	ADJ	0	17	5	A conservação preventiva de obras raras envolve o controle de temperatura e umidade nos acervos .
+envolve	VERB	0	17	6	A conservação preventiva de obras raras envolve o controle de temperatura e umidade nos acervos .
+o	DET	0	17	7	A conservação preventiva de obras raras envolve o controle de temperatura e umidade nos acervos .
+controle	NOUN	0	17	8	A conservação preventiva de obras raras envolve o controle de temperatura e umidade nos acervos .
+de	ADP	0	17	9	A conservação preventiva de obras raras envolve o controle de temperatura e umidade nos acervos .
+temperatura	NOUN	0	17	10	A conservação preventiva de obras raras envolve o controle de temperatura e umidade nos acervos .
+e	CCONJ	0	17	11	A conservação preventiva de obras raras envolve o controle de temperatura e umidade nos acervos .
+umidade	NOUN	0	17	12	A conservação preventiva de obras raras envolve o controle de temperatura e umidade nos acervos .
+nos	ADP	0	17	13	A conservação preventiva de obras raras envolve o controle de temperatura e umidade nos acervos .
+acervos	NOUN	1	17	14	A conservação preventiva de obras raras envolve o controle de temperatura e umidade nos acervos .
+.	PUNCT	0	17	15	A conservação preventiva de obras raras envolve o controle de temperatura e umidade nos acervos .
+O	DET	0	18	0	O empréstimo entre bibliotecas amplia o acesso a materiais que não estão disponíveis localmente .
+empréstimo	NOUN	0	18	1	O empréstimo entre bibliotecas amplia o acesso a materiais que não estão disponíveis localmente .
+entre	ADP	0	18	2	O empréstimo entre bibliotecas amplia o acesso a materiais que não estão disponíveis localmente .
+bibliotecas	NOUN	0	18	3	O empréstimo entre bibliotecas amplia o acesso a materiais que não estão disponíveis localmente .
+amplia	VERB	0	18	4	O empréstimo entre bibliotecas amplia o acesso a materiais que não estão disponíveis localmente .
+o	DET	0	18	5	O empréstimo entre bibliotecas amplia o acesso a materiais que não estão disponíveis localmente .
+acesso	NOUN	0	18	6	O empréstimo entre bibliotecas amplia o acesso a materiais que não estão disponíveis localmente .
+a	ADP	0	18	7	O empréstimo entre bibliotecas amplia o acesso a materiais que não estão disponíveis localmente .
+materiais	NOUN	0	18	8	O empréstimo entre bibliotecas amplia o acesso a materiais que não estão disponíveis localmente .
+que	PRON	0	18	9	O empréstimo entre bibliotecas amplia o acesso a materiais que não estão disponíveis localmente .
+não	ADV	0	18	10	O empréstimo entre bibliotecas amplia o acesso a materiais que não estão disponíveis localmente .
+estão	AUX	0	18	11	O empréstimo entre bibliotecas amplia o acesso a materiais que não estão disponíveis localmente .
+disponíveis	ADJ	0	18	12	O empréstimo entre bibliotecas amplia o acesso a materiais que não estão disponíveis localmente .
+localmente	ADV	0	18	13	O empréstimo entre bibliotecas amplia o acesso a materiais que não estão disponíveis localmente .
+.	PUNCT	0	18	14	O empréstimo entre bibliotecas amplia o acesso a materiais que não estão disponíveis localmente .
+A	DET	0	19	0	A curadoria digital envolve a seleção e manutenção de ativos digitais a longo prazo .
+curadoria	NOUN	1	19	1	A curadoria digital envolve a seleção e manutenção de ativos digitais a longo prazo .
+digital	ADJ	0	19	2	A curadoria digital envolve a seleção e manutenção de ativos digitais a longo prazo .
+envolve	VERB	0	19	3	A curadoria digital envolve a seleção e manutenção de ativos digitais a longo prazo .
+a	DET	0	19	4	A curadoria digital envolve a seleção e manutenção de ativos digitais a longo prazo .
+seleção	NOUN	0	19	5	A curadoria digital envolve a seleção e manutenção de ativos digitais a longo prazo .
+e	CCONJ	0	19	6	A curadoria digital envolve a seleção e manutenção de ativos digitais a longo prazo .
+manutenção	NOUN	0	19	7	A curadoria digital envolve a seleção e manutenção de ativos digitais a longo prazo .
+de	ADP	0	19	8	A curadoria digital envolve a seleção e manutenção de ativos digitais a longo prazo .
+ativos	NOUN	0	19	9	A curadoria digital envolve a seleção e manutenção de ativos digitais a longo prazo .
+digitais	ADJ	0	19	10	A curadoria digital envolve a seleção e manutenção de ativos digitais a longo prazo .
+a	ADP	0	19	11	A curadoria digital envolve a seleção e manutenção de ativos digitais a longo prazo .
+longo	ADJ	0	19	12	A curadoria digital envolve a seleção e manutenção de ativos digitais a longo prazo .
+prazo	NOUN	0	19	13	A curadoria digital envolve a seleção e manutenção de ativos digitais a longo prazo .
+.	PUNCT	0	19	14	A curadoria digital envolve a seleção e manutenção de ativos digitais a longo prazo .
+O	DET	0	20	0	O código de ética profissional do bibliotecário orienta a conduta técnica e social da categoria .
+código	NOUN	0	20	1	O código de ética profissional do bibliotecário orienta a conduta técnica e social da categoria .
+de	ADP	0	20	2	O código de ética profissional do bibliotecário orienta a conduta técnica e social da categoria .
+ética	NOUN	0	20	3	O código de ética profissional do bibliotecário orienta a conduta técnica e social da categoria .
+profissional	ADJ	0	20	4	O código de ética profissional do bibliotecário orienta a conduta técnica e social da categoria .
+do	ADP	0	20	5	O código de ética profissional do bibliotecário orienta a conduta técnica e social da categoria .
+bibliotecário	NOUN	1	20	6	O código de ética profissional do bibliotecário orienta a conduta técnica e social da categoria .
+orienta	VERB	0	20	7	O código de ética profissional do bibliotecário orienta a conduta técnica e social da categoria .
+a	DET	0	20	8	O código de ética profissional do bibliotecário orienta a conduta técnica e social da categoria .
+conduta	NOUN	0	20	9	O código de ética profissional do bibliotecário orienta a conduta técnica e social da categoria .
+técnica	ADJ	0	20	10	O código de ética profissional do bibliotecário orienta a conduta técnica e social da categoria .
+e	CCONJ	0	20	11	O código de ética profissional do bibliotecário orienta a conduta técnica e social da categoria .
+social	ADJ	0	20	12	O código de ética profissional do bibliotecário orienta a conduta técnica e social da categoria .
+da	ADP	0	20	13	O código de ética profissional do bibliotecário orienta a conduta técnica e social da categoria .
+categoria	NOUN	0	20	14	O código de ética profissional do bibliotecário orienta a conduta técnica e social da categoria .
+.	PUNCT	0	20	15	O código de ética profissional do bibliotecário orienta a conduta técnica e social da categoria .
+A	DET	0	21	0	A normalização documentária segue as diretrizes da ABNT para trabalhos acadêmicos no Brasil .
+normalização	NOUN	1	21	1	A normalização documentária segue as diretrizes da ABNT para trabalhos acadêmicos no Brasil .
+documentária	ADJ	1	21	2	A normalização documentária segue as diretrizes da ABNT para trabalhos acadêmicos no Brasil .
+segue	VERB	0	21	3	A normalização documentária segue as diretrizes da ABNT para trabalhos acadêmicos no Brasil .
+as	DET	0	21	4	A normalização documentária segue as diretrizes da ABNT para trabalhos acadêmicos no Brasil .
+diretrizes	NOUN	0	21	5	A normalização documentária segue as diretrizes da ABNT para trabalhos acadêmicos no Brasil .
+da	ADP	0	21	6	A normalização documentária segue as diretrizes da ABNT para trabalhos acadêmicos no Brasil .
+ABNT	PROPN	1	21	7	A normalização documentária segue as diretrizes da ABNT para trabalhos acadêmicos no Brasil .
+para	ADP	0	21	8	A normalização documentária segue as diretrizes da ABNT para trabalhos acadêmicos no Brasil .
+trabalhos	NOUN	0	21	9	A normalização documentária segue as diretrizes da ABNT para trabalhos acadêmicos no Brasil .
+acadêmicos	ADJ	0	21	10	A normalização documentária segue as diretrizes da ABNT para trabalhos acadêmicos no Brasil .
+no	ADP	0	21	11	A normalização documentária segue as diretrizes da ABNT para trabalhos acadêmicos no Brasil .
+Brasil	PROPN	0	21	12	A normalização documentária segue as diretrizes da ABNT para trabalhos acadêmicos no Brasil .
+.	PUNCT	0	21	13	A normalização documentária segue as diretrizes da ABNT para trabalhos acadêmicos no Brasil .
+O	DET	0	22	0	O bibliotecário de dados trabalha com a organização e preservação de conjuntos de dados de pesquisa .
+bibliotecário	NOUN	1	22	1	O bibliotecário de dados trabalha com a organização e preservação de conjuntos de dados de pesquisa .
+de	ADP	0	22	2	O bibliotecário de dados trabalha com a organização e preservação de conjuntos de dados de pesquisa .
+dados	NOUN	0	22	3	O bibliotecário de dados trabalha com a organização e preservação de conjuntos de dados de pesquisa .
+trabalha	VERB	0	22	4	O bibliotecário de dados trabalha com a organização e preservação de conjuntos de dados de pesquisa .
+com	ADP	0	22	5	O bibliotecário de dados trabalha com a organização e preservação de conjuntos de dados de pesquisa .
+a	DET	0	22	6	O bibliotecário de dados trabalha com a organização e preservação de conjuntos de dados de pesquisa .
+organização	NOUN	0	22	7	O bibliotecário de dados trabalha com a organização e preservação de conjuntos de dados de pesquisa .
+e	CCONJ	0	22	8	O bibliotecário de dados trabalha com a organização e preservação de conjuntos de dados de pesquisa .
+preservação	NOUN	0	22	9	O bibliotecário de dados trabalha com a organização e preservação de conjuntos de dados de pesquisa .
+de	ADP	0	22	10	O bibliotecário de dados trabalha com a organização e preservação de conjuntos de dados de pesquisa .
+conjuntos	NOUN	0	22	11	O bibliotecário de dados trabalha com a organização e preservação de conjuntos de dados de pesquisa .
+de	ADP	0	22	12	O bibliotecário de dados trabalha com a organização e preservação de conjuntos de dados de pesquisa .
+dados	NOUN	0	22	13	O bibliotecário de dados trabalha com a organização e preservação de conjuntos de dados de pesquisa .
+de	ADP	0	22	14	O bibliotecário de dados trabalha com a organização e preservação de conjuntos de dados de pesquisa .
+pesquisa	NOUN	0	22	15	O bibliotecário de dados trabalha com a organização e preservação de conjuntos de dados de pesquisa .
+.	PUNCT	0	22	16	O bibliotecário de dados trabalha com a organização e preservação de conjuntos de dados de pesquisa .
+As	DET	0	23	0	As bibliotecas especializadas atendem a demandas de áreas específicas como medicina e direito .
+bibliotecas	NOUN	0	23	1	As bibliotecas especializadas atendem a demandas de áreas específicas como medicina e direito .
+especializadas	VERB	0	23	2	As bibliotecas especializadas atendem a demandas de áreas específicas como medicina e direito .
+atendem	VERB	1	23	3	As bibliotecas especializadas atendem a demandas de áreas específicas como medicina e direito .
+a	ADP	0	23	4	As bibliotecas especializadas atendem a demandas de áreas específicas como medicina e direito .
+demandas	NOUN	0	23	5	As bibliotecas especializadas atendem a demandas de áreas específicas como medicina e direito .
+de	ADP	0	23	6	As bibliotecas especializadas atendem a demandas de áreas específicas como medicina e direito .
+áreas	NOUN	0	23	7	As bibliotecas especializadas atendem a demandas de áreas específicas como medicina e direito .
+específicas	ADJ	0	23	8	As bibliotecas especializadas atendem a demandas de áreas específicas como medicina e direito .
+como	ADP	0	23	9	As bibliotecas especializadas atendem a demandas de áreas específicas como medicina e direito .
+medicina	NOUN	0	23	10	As bibliotecas especializadas atendem a demandas de áreas específicas como medicina e direito .
+e	CCONJ	0	23	11	As bibliotecas especializadas atendem a demandas de áreas específicas como medicina e direito .
+direito	NOUN	0	23	12	As bibliotecas especializadas atendem a demandas de áreas específicas como medicina e direito .
+.	PUNCT	0	23	13	As bibliotecas especializadas atendem a demandas de áreas específicas como medicina e direito .
+A	DET	0	24	0	A acessibilidade em bibliotecas garante que pessoas com deficiência tenham pleno acesso à informação .
+acessibilidade	NOUN	1	24	1	A acessibilidade em bibliotecas garante que pessoas com deficiência tenham pleno acesso à informação .
+em	ADP	0	24	2	A acessibilidade em bibliotecas garante que pessoas com deficiência tenham pleno acesso à informação .
+bibliotecas	NOUN	0	24	3	A acessibilidade em bibliotecas garante que pessoas com deficiência tenham pleno acesso à informação .
+garante	VERB	0	24	4	A acessibilidade em bibliotecas garante que pessoas com deficiência tenham pleno acesso à informação .
+que	SCONJ	0	24	5	A acessibilidade em bibliotecas garante que pessoas com deficiência tenham pleno acesso à informação .
+pessoas	NOUN	0	24	6	A acessibilidade em bibliotecas garante que pessoas com deficiência tenham pleno acesso à informação .
+com	ADP	0	24	7	A acessibilidade em bibliotecas garante que pessoas com deficiência tenham pleno acesso à informação .
+deficiência	NOUN	0	24	8	A acessibilidade em bibliotecas garante que pessoas com deficiência tenham pleno acesso à informação .
+tenham	VERB	0	24	9	A acessibilidade em bibliotecas garante que pessoas com deficiência tenham pleno acesso à informação .
+pleno	ADJ	0	24	10	A acessibilidade em bibliotecas garante que pessoas com deficiência tenham pleno acesso à informação .
+acesso	NOUN	0	24	11	A acessibilidade em bibliotecas garante que pessoas com deficiência tenham pleno acesso à informação .
+à	ADP	0	24	12	A acessibilidade em bibliotecas garante que pessoas com deficiência tenham pleno acesso à informação .
+informação	NOUN	0	24	13	A acessibilidade em bibliotecas garante que pessoas com deficiência tenham pleno acesso à informação .
+.	PUNCT	0	24	14	A acessibilidade em bibliotecas garante que pessoas com deficiência tenham pleno acesso à informação .
+O	DET	0	25	0	O desenvolvimento de coleções deve considerar o perfil da comunidade atendida pela instituição .
+desenvolvimento	NOUN	0	25	1	O desenvolvimento de coleções deve considerar o perfil da comunidade atendida pela instituição .
+de	ADP	0	25	2	O desenvolvimento de coleções deve considerar o perfil da comunidade atendida pela instituição .
+coleções	NOUN	0	25	3	O desenvolvimento de coleções deve considerar o perfil da comunidade atendida pela instituição .
+deve	VERB	0	25	4	O desenvolvimento de coleções deve considerar o perfil da comunidade atendida pela instituição .
+considerar	VERB	0	25	5	O desenvolvimento de coleções deve considerar o perfil da comunidade atendida pela instituição .
+o	DET	0	25	6	O desenvolvimento de coleções deve considerar o perfil da comunidade atendida pela instituição .
+perfil	NOUN	0	25	7	O desenvolvimento de coleções deve considerar o perfil da comunidade atendida pela instituição .
+da	ADP	0	25	8	O desenvolvimento de coleções deve considerar o perfil da comunidade atendida pela instituição .
+comunidade	NOUN	0	25	9	O desenvolvimento de coleções deve considerar o perfil da comunidade atendida pela instituição .
+atendida	VERB	1	25	10	O desenvolvimento de coleções deve considerar o perfil da comunidade atendida pela instituição .
+pela	ADP	0	25	11	O desenvolvimento de coleções deve considerar o perfil da comunidade atendida pela instituição .
+instituição	NOUN	0	25	12	O desenvolvimento de coleções deve considerar o perfil da comunidade atendida pela instituição .
+.	PUNCT	0	25	13	O desenvolvimento de coleções deve considerar o perfil da comunidade atendida pela instituição .
+O	DET	0	26	0	O marketing em bibliotecas ajuda a promover os serviços e atrair novos tipos de usuários .
+marketing	NOUN	0	26	1	O marketing em bibliotecas ajuda a promover os serviços e atrair novos tipos de usuários .
+em	ADP	0	26	2	O marketing em bibliotecas ajuda a promover os serviços e atrair novos tipos de usuários .
+bibliotecas	NOUN	0	26	3	O marketing em bibliotecas ajuda a promover os serviços e atrair novos tipos de usuários .
+ajuda	VERB	0	26	4	O marketing em bibliotecas ajuda a promover os serviços e atrair novos tipos de usuários .
+a	SCONJ	0	26	5	O marketing em bibliotecas ajuda a promover os serviços e atrair novos tipos de usuários .
+promover	VERB	0	26	6	O marketing em bibliotecas ajuda a promover os serviços e atrair novos tipos de usuários .
+os	DET	0	26	7	O marketing em bibliotecas ajuda a promover os serviços e atrair novos tipos de usuários .
+serviços	NOUN	0	26	8	O marketing em bibliotecas ajuda a promover os serviços e atrair novos tipos de usuários .
+e	CCONJ	0	26	9	O marketing em bibliotecas ajuda a promover os serviços e atrair novos tipos de usuários .
+atrair	VERB	0	26	10	O marketing em bibliotecas ajuda a promover os serviços e atrair novos tipos de usuários .
+novos	ADJ	0	26	11	O marketing em bibliotecas ajuda a promover os serviços e atrair novos tipos de usuários .
+tipos	NOUN	0	26	12	O marketing em bibliotecas ajuda a promover os serviços e atrair novos tipos de usuários .
+de	ADP	0	26	13	O marketing em bibliotecas ajuda a promover os serviços e atrair novos tipos de usuários .
+usuários	NOUN	0	26	14	O marketing em bibliotecas ajuda a promover os serviços e atrair novos tipos de usuários .
+.	PUNCT	0	26	15	O marketing em bibliotecas ajuda a promover os serviços e atrair novos tipos de usuários .
+A	DET	0	27	0	A bibliometria utiliza métodos estatísticos para analisar a produção científica e o impacto de citações .
+bibliometria	NOUN	1	27	1	A bibliometria utiliza métodos estatísticos para analisar a produção científica e o impacto de citações .
+utiliza	VERB	0	27	2	A bibliometria utiliza métodos estatísticos para analisar a produção científica e o impacto de citações .
+métodos	NOUN	0	27	3	A bibliometria utiliza métodos estatísticos para analisar a produção científica e o impacto de citações .
+estatísticos	ADJ	1	27	4	A bibliometria utiliza métodos estatísticos para analisar a produção científica e o impacto de citações .
+para	SCONJ	0	27	5	A bibliometria utiliza métodos estatísticos para analisar a produção científica e o impacto de citações .
+analisar	VERB	0	27	6	A bibliometria utiliza métodos estatísticos para analisar a produção científica e o impacto de citações .
+a	DET	0	27	7	A bibliometria utiliza métodos estatísticos para analisar a produção científica e o impacto de citações .
+produção	NOUN	0	27	8	A bibliometria utiliza métodos estatísticos para analisar a produção científica e o impacto de citações .
+científica	ADJ	0	27	9	A bibliometria utiliza métodos estatísticos para analisar a produção científica e o impacto de citações .
+e	CCONJ	0	27	10	A bibliometria utiliza métodos estatísticos para analisar a produção científica e o impacto de citações .
+o	DET	0	27	11	A bibliometria utiliza métodos estatísticos para analisar a produção científica e o impacto de citações .
+impacto	NOUN	0	27	12	A bibliometria utiliza métodos estatísticos para analisar a produção científica e o impacto de citações .
+de	ADP	0	27	13	A bibliometria utiliza métodos estatísticos para analisar a produção científica e o impacto de citações .
+citações	NOUN	1	27	14	A bibliometria utiliza métodos estatísticos para analisar a produção científica e o impacto de citações .
+.	PUNCT	0	27	15	A bibliometria utiliza métodos estatísticos para analisar a produção científica e o impacto de citações .
+O	DET	0	28	0	O Tesauro é uma linguagem documental controlada que auxilia na representação temática de textos .
+Tesauro	PROPN	1	28	1	O Tesauro é uma linguagem documental controlada que auxilia na representação temática de textos .
+é	AUX	0	28	2	O Tesauro é uma linguagem documental controlada que auxilia na representação temática de textos .
+uma	DET	0	28	3	O Tesauro é uma linguagem documental controlada que auxilia na representação temática de textos .
+linguagem	NOUN	0	28	4	O Tesauro é uma linguagem documental controlada que auxilia na representação temática de textos .
+documental	ADJ	1	28	5	O Tesauro é uma linguagem documental controlada que auxilia na representação temática de textos .
+controlada	VERB	0	28	6	O Tesauro é uma linguagem documental controlada que auxilia na representação temática de textos .
+que	PRON	0	28	7	O Tesauro é uma linguagem documental controlada que auxilia na representação temática de textos .
+auxilia	VERB	0	28	8	O Tesauro é uma linguagem documental controlada que auxilia na representação temática de textos .
+na	ADP	0	28	9	O Tesauro é uma linguagem documental controlada que auxilia na representação temática de textos .
+representação	NOUN	0	28	10	O Tesauro é uma linguagem documental controlada que auxilia na representação temática de textos .
+temática	ADJ	0	28	11	O Tesauro é uma linguagem documental controlada que auxilia na representação temática de textos .
+de	ADP	0	28	12	O Tesauro é uma linguagem documental controlada que auxilia na representação temática de textos .
+textos	NOUN	0	28	13	O Tesauro é uma linguagem documental controlada que auxilia na representação temática de textos .
+.	PUNCT	0	28	14	O Tesauro é uma linguagem documental controlada que auxilia na representação temática de textos .
+As	DET	0	29	0	As bibliotecas comunitárias surgem como iniciativas de resistência cultural em periferias urbanas .
+bibliotecas	NOUN	0	29	1	As bibliotecas comunitárias surgem como iniciativas de resistência cultural em periferias urbanas .
+comunitárias	ADJ	1	29	2	As bibliotecas comunitárias surgem como iniciativas de resistência cultural em periferias urbanas .
+surgem	VERB	0	29	3	As bibliotecas comunitárias surgem como iniciativas de resistência cultural em periferias urbanas .
+como	ADP	0	29	4	As bibliotecas comunitárias surgem como iniciativas de resistência cultural em periferias urbanas .
+iniciativas	NOUN	0	29	5	As bibliotecas comunitárias surgem como iniciativas de resistência cultural em periferias urbanas .
+de	ADP	0	29	6	As bibliotecas comunitárias surgem como iniciativas de resistência cultural em periferias urbanas .
+resistência	NOUN	0	29	7	As bibliotecas comunitárias surgem como iniciativas de resistência cultural em periferias urbanas .
+cultural	ADJ	0	29	8	As bibliotecas comunitárias surgem como iniciativas de resistência cultural em periferias urbanas .
+em	ADP	0	29	9	As bibliotecas comunitárias surgem como iniciativas de resistência cultural em periferias urbanas .
+periferias	NOUN	1	29	10	As bibliotecas comunitárias surgem como iniciativas de resistência cultural em periferias urbanas .
+urbanas	ADJ	0	29	11	As bibliotecas comunitárias surgem como iniciativas de resistência cultural em periferias urbanas .
+.	PUNCT	0	29	12	As bibliotecas comunitárias surgem como iniciativas de resistência cultural em periferias urbanas .
+A	DET	0	30	0	A competência em informação capacita o cidadão a avaliar criticamente as fontes de notícias .
+competência	NOUN	0	30	1	A competência em informação capacita o cidadão a avaliar criticamente as fontes de notícias .
+em	ADP	0	30	2	A competência em informação capacita o cidadão a avaliar criticamente as fontes de notícias .
+informação	NOUN	0	30	3	A competência em informação capacita o cidadão a avaliar criticamente as fontes de notícias .
+capacita	VERB	1	30	4	A competência em informação capacita o cidadão a avaliar criticamente as fontes de notícias .
+o	DET	0	30	5	A competência em informação capacita o cidadão a avaliar criticamente as fontes de notícias .
+cidadão	NOUN	0	30	6	A competência em informação capacita o cidadão a avaliar criticamente as fontes de notícias .
+a	SCONJ	0	30	7	A competência em informação capacita o cidadão a avaliar criticamente as fontes de notícias .
+avaliar	VERB	0	30	8	A competência em informação capacita o cidadão a avaliar criticamente as fontes de notícias .
+criticamente	ADV	1	30	9	A competência em informação capacita o cidadão a avaliar criticamente as fontes de notícias .
+as	DET	0	30	10	A competência em informação capacita o cidadão a avaliar criticamente as fontes de notícias .
+fontes	NOUN	0	30	11	A competência em informação capacita o cidadão a avaliar criticamente as fontes de notícias .
+de	ADP	0	30	12	A competência em informação capacita o cidadão a avaliar criticamente as fontes de notícias .
+notícias	NOUN	0	30	13	A competência em informação capacita o cidadão a avaliar criticamente as fontes de notícias .
+.	PUNCT	0	30	14	A competência em informação capacita o cidadão a avaliar criticamente as fontes de notícias .
