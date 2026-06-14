@@ -1,0 +1,61 @@
+Sentença	Id	Index	Granularidade	Documento
+A Biblioteconomia utiliza sistemas de classificação como CDD e CDU para organizar o conhecimento humano.	1	0	0	A Biblioteconomia utiliza sistemas de classificação como CDD e CDU para organizar o conhecimento humano .
+0	1	-1	1	A Biblioteconomia utiliza sistemas de classificação como CDD e CDU para organizar o conhecimento humano .
+O bibliotecário atua como mediador essencial entre a informação registrada e o usuário final.	2	0	0	O bibliotecário atua como mediador essencial entre a informação registrada e o usuário final .
+1	2	-1	1	O bibliotecário atua como mediador essencial entre a informação registrada e o usuário final .
+A preservação digital é um desafio contemporâneo para as bibliotecas universitárias e centros de documentação.	3	0	0	A preservação digital é um desafio contemporâneo para as bibliotecas universitárias e centros de documentação .
+2	3	-1	1	A preservação digital é um desafio contemporâneo para as bibliotecas universitárias e centros de documentação .
+O Repositório Institucional da USP armazena e dissemina a produção científica de seus pesquisadores.	4	0	0	O Repositório Institucional da USP armazena e dissemina a produção científica de seus pesquisadores .
+3	4	-1	1	O Repositório Institucional da USP armazena e dissemina a produção científica de seus pesquisadores .
+A gestão de coleções exige critérios técnicos rigorosos para o descarte e a aquisição de novos títulos.	5	0	0	A gestão de coleções exige critérios técnicos rigorosos para o descarte e a aquisição de novos títulos .
+4	5	-1	1	A gestão de coleções exige critérios técnicos rigorosos para o descarte e a aquisição de novos títulos .
+A catalogação descritiva utiliza padrões internacionais como o RDA e o formato MARC21.	6	0	0	A catalogação descritiva utiliza padrões internacionais como o RDA e o formato MARC21 .
+5	6	-1	1	A catalogação descritiva utiliza padrões internacionais como o RDA e o formato MARC21 .
+Bibliotecas públicas desempenham um papel fundamental na promoção do letramento informacional na sociedade.	7	0	0	Bibliotecas públicas desempenham um papel fundamental na promoção do letramento informacional na sociedade .
+6	7	-1	1	Bibliotecas públicas desempenham um papel fundamental na promoção do letramento informacional na sociedade .
+A indexação de documentos facilita a recuperação da informação em bases de dados especializadas.	8	0	0	A indexação de documentos facilita a recuperação da informação em bases de dados especializadas .
+7	8	-1	1	A indexação de documentos facilita a recuperação da informação em bases de dados especializadas .
+O Manifesto da IFLA para Bibliotecas Públicas destaca a importância do acesso livre ao conhecimento.	9	0	0	O Manifesto da IFLA para Bibliotecas Públicas destaca a importância do acesso livre ao conhecimento .
+8	9	-1	1	O Manifesto da IFLA para Bibliotecas Públicas destaca a importância do acesso livre ao conhecimento .
+Serviços de referência auxiliam os usuários na busca por fontes de informação confiáveis e acadêmicas.	10	0	0	Serviços de referência auxiliam os usuários na busca por fontes de informação confiáveis e acadêmicas .
+9	10	-1	1	Serviços de referência auxiliam os usuários na busca por fontes de informação confiáveis e acadêmicas .
+A automação de bibliotecas utiliza softwares como o Koha e o Pergamum para gerenciar acervos.	11	0	0	A automação de bibliotecas utiliza softwares como o Koha e o Pergamum para gerenciar acervos .
+10	11	-1	1	A automação de bibliotecas utiliza softwares como o Koha e o Pergamum para gerenciar acervos .
+Metadados são fundamentais para a descrição e organização de recursos em ambientes digitais.	12	0	0	Metadados são fundamentais para a descrição e organização de recursos em ambientes digitais .
+11	12	-1	1	Metadados são fundamentais para a descrição e organização de recursos em ambientes digitais .
+A biblioteca escolar é um espaço de apoio pedagógico que estimula o hábito da leitura.	13	0	0	A biblioteca escolar é um espaço de apoio pedagógico que estimula o hábito da leitura .
+12	13	-1	1	A biblioteca escolar é um espaço de apoio pedagógico que estimula o hábito da leitura .
+O controle de autoridades garante a consistência dos nomes de autores nos catálogos bibliográficos.	14	0	0	O controle de autoridades garante a consistência dos nomes de autores nos catálogos bibliográficos .
+13	14	-1	1	O controle de autoridades garante a consistência dos nomes de autores nos catálogos bibliográficos .
+A ciência da informação estuda as propriedades e o fluxo da informação na sociedade moderna.	15	0	0	A ciência da informação estuda as propriedades e o fluxo da informação na sociedade moderna .
+14	15	-1	1	A ciência da informação estuda as propriedades e o fluxo da informação na sociedade moderna .
+Bibliotecas digitais permitem o acesso remoto a livros e documentos raros em alta resolução.	16	0	0	Bibliotecas digitais permitem o acesso remoto a livros e documentos raros em alta resolução .
+15	16	-1	1	Bibliotecas digitais permitem o acesso remoto a livros e documentos raros em alta resolução .
+A conservação preventiva de obras raras envolve o controle de temperatura e umidade nos acervos.	17	0	0	A conservação preventiva de obras raras envolve o controle de temperatura e umidade nos acervos .
+16	17	-1	1	A conservação preventiva de obras raras envolve o controle de temperatura e umidade nos acervos .
+O empréstimo entre bibliotecas amplia o acesso a materiais que não estão disponíveis localmente.	18	0	0	O empréstimo entre bibliotecas amplia o acesso a materiais que não estão disponíveis localmente .
+17	18	-1	1	O empréstimo entre bibliotecas amplia o acesso a materiais que não estão disponíveis localmente .
+A curadoria digital envolve a seleção e manutenção de ativos digitais a longo prazo.	19	0	0	A curadoria digital envolve a seleção e manutenção de ativos digitais a longo prazo .
+18	19	-1	1	A curadoria digital envolve a seleção e manutenção de ativos digitais a longo prazo .
+O código de ética profissional do bibliotecário orienta a conduta técnica e social da categoria.	20	0	0	O código de ética profissional do bibliotecário orienta a conduta técnica e social da categoria .
+19	20	-1	1	O código de ética profissional do bibliotecário orienta a conduta técnica e social da categoria .
+A normalização documentária segue as diretrizes da ABNT para trabalhos acadêmicos no Brasil.	21	0	0	A normalização documentária segue as diretrizes da ABNT para trabalhos acadêmicos no Brasil .
+20	21	-1	1	A normalização documentária segue as diretrizes da ABNT para trabalhos acadêmicos no Brasil .
+O bibliotecário de dados trabalha com a organização e preservação de conjuntos de dados de pesquisa.	22	0	0	O bibliotecário de dados trabalha com a organização e preservação de conjuntos de dados de pesquisa .
+21	22	-1	1	O bibliotecário de dados trabalha com a organização e preservação de conjuntos de dados de pesquisa .
+As bibliotecas especializadas atendem a demandas de áreas específicas como medicina e direito.	23	0	0	As bibliotecas especializadas atendem a demandas de áreas específicas como medicina e direito .
+22	23	-1	1	As bibliotecas especializadas atendem a demandas de áreas específicas como medicina e direito .
+A acessibilidade em bibliotecas garante que pessoas com deficiência tenham pleno acesso à informação.	24	0	0	A acessibilidade em bibliotecas garante que pessoas com deficiência tenham pleno acesso à informação .
+23	24	-1	1	A acessibilidade em bibliotecas garante que pessoas com deficiência tenham pleno acesso à informação .
+O desenvolvimento de coleções deve considerar o perfil da comunidade atendida pela instituição.	25	0	0	O desenvolvimento de coleções deve considerar o perfil da comunidade atendida pela instituição .
+24	25	-1	1	O desenvolvimento de coleções deve considerar o perfil da comunidade atendida pela instituição .
+O marketing em bibliotecas ajuda a promover os serviços e atrair novos tipos de usuários.	26	0	0	O marketing em bibliotecas ajuda a promover os serviços e atrair novos tipos de usuários .
+25	26	-1	1	O marketing em bibliotecas ajuda a promover os serviços e atrair novos tipos de usuários .
+A bibliometria utiliza métodos estatísticos para analisar a produção científica e o impacto de citações.	27	0	0	A bibliometria utiliza métodos estatísticos para analisar a produção científica e o impacto de citações .
+26	27	-1	1	A bibliometria utiliza métodos estatísticos para analisar a produção científica e o impacto de citações .
+O Tesauro é uma linguagem documental controlada que auxilia na representação temática de textos.	28	0	0	O Tesauro é uma linguagem documental controlada que auxilia na representação temática de textos .
+27	28	-1	1	O Tesauro é uma linguagem documental controlada que auxilia na representação temática de textos .
+As bibliotecas comunitárias surgem como iniciativas de resistência cultural em periferias urbanas.	29	0	0	As bibliotecas comunitárias surgem como iniciativas de resistência cultural em periferias urbanas .
+28	29	-1	1	As bibliotecas comunitárias surgem como iniciativas de resistência cultural em periferias urbanas .
+A competência em informação capacita o cidadão a avaliar criticamente as fontes de notícias.	30	0	0	A competência em informação capacita o cidadão a avaliar criticamente as fontes de notícias .
+29	30	-1	1	A competência em informação capacita o cidadão a avaliar criticamente as fontes de notícias .
